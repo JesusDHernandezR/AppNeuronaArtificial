@@ -26,6 +26,7 @@ namespace Datos
                 peso.Peso5 = decimal.Parse(datoPeso[4]);
                 peso.Peso6 = decimal.Parse(datoPeso[5]);
                 listaPesos.Add(peso);
+
             }
             reader.Close();
             file.Close();
