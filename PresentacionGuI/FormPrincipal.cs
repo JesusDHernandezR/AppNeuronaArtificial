@@ -5,10 +5,12 @@ namespace PresentacionGuI
     public partial class FormPrincipal : Form
     {
         ParametroService parametroService;
+        PesoService pesoService;
         public FormPrincipal()
         {
             InitializeComponent();
             parametroService = new ParametroService();
+            pesoService = new PesoService();
         }
         private void buttonCargarTabla(object sender, EventArgs e)
         {
@@ -52,6 +54,22 @@ namespace PresentacionGuI
         private void label3_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void buttonUnicapa_Click(object sender, EventArgs e)
+        {
+            var responsePeso = pesoService.ConsultarPesos();
+            if (!responsePeso.Error)
+            {
+                foreach (var p in responsePeso.ListPeso)
+                {
+                    dataGridPesos.DataSource = responsePeso.ListPeso;
+                }
+            }
+            else
+            {
+                MessageBox.Show(responsePeso.Mensaje, "INFO", MessageBoxButtons.OK);
+            }
         }
     }
 }
