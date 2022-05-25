@@ -156,7 +156,7 @@
             this.Controls.Add(this.dataGridTablaParametros);
             this.Controls.Add(this.label1);
             this.Name = "FormPrincipal";
-            this.Text = "Form1";
+            this.Text = "Formulario";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridTablaParametros)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
