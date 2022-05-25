@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PresentacionGuI/1.0.0": {
+        "dependencies": {
+          "Entidad": "1.0.0",
+          "Logica": "1.0.0"
+        },
+        "runtime": {
+          "PresentacionGuI.dll": {}
+        }
+      },
+      "Datos/1.0.0": {
+        "dependencies": {
+          "Entidad": "1.0.0"
+        },
+        "runtime": {
+          "Datos.dll": {}
+        }
+      },
+      "Entidad/1.0.0": {
+        "runtime": {
+          "Entidad.dll": {}
+        }
+      },
+      "Logica/1.0.0": {
+        "dependencies": {
+          "Datos": "1.0.0",
+          "Entidad": "1.0.0"
+        },
+        "runtime": {
+          "Logica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PresentacionGuI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Datos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Logica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

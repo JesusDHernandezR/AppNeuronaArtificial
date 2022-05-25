@@ -1,0 +1,17 @@
+C:\Users\kateri\source\repos\AppEscritorioNeurona\Logica\bin\Debug\net6.0\Logica.deps.json
+C:\Users\kateri\source\repos\AppEscritorioNeurona\Logica\bin\Debug\net6.0\Logica.dll
+C:\Users\kateri\source\repos\AppEscritorioNeurona\Logica\bin\Debug\net6.0\Logica.pdb
+C:\Users\kateri\source\repos\AppEscritorioNeurona\Logica\bin\Debug\net6.0\Datos.dll
+C:\Users\kateri\source\repos\AppEscritorioNeurona\Logica\bin\Debug\net6.0\Entidad.dll
+C:\Users\kateri\source\repos\AppEscritorioNeurona\Logica\bin\Debug\net6.0\Datos.pdb
+C:\Users\kateri\source\repos\AppEscritorioNeurona\Logica\bin\Debug\net6.0\Entidad.pdb
+C:\Users\kateri\source\repos\AppEscritorioNeurona\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+C:\Users\kateri\source\repos\AppEscritorioNeurona\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kateri\source\repos\AppEscritorioNeurona\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+C:\Users\kateri\source\repos\AppEscritorioNeurona\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+C:\Users\kateri\source\repos\AppEscritorioNeurona\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\kateri\source\repos\AppEscritorioNeurona\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+C:\Users\kateri\source\repos\AppEscritorioNeurona\Logica\obj\Debug\net6.0\Logica.dll
+C:\Users\kateri\source\repos\AppEscritorioNeurona\Logica\obj\Debug\net6.0\refint\Logica.dll
+C:\Users\kateri\source\repos\AppEscritorioNeurona\Logica\obj\Debug\net6.0\Logica.pdb
+C:\Users\kateri\source\repos\AppEscritorioNeurona\Logica\obj\Debug\net6.0\ref\Logica.dll
